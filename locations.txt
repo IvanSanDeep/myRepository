@@ -1,1 +1,9 @@
 Earth
+Human
+Ya podemos modifcar archivo
+
+i  Comienza a introducir texto en la poscion actual
+l Comienza a introducir texto al inicio de la linea
+O Inserta una linea en blanco
+o Inserta una line en blanco despues actual posicion
+
