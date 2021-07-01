@@ -2,7 +2,9 @@ Earth
 Plants
 Animals
 Humans
+Minerales
 Power
+
 
 Ya podemos modifcar archivo
 
