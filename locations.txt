@@ -1,6 +1,7 @@
 Earth
 Plants
-Human
+Animals
+Humans
 
 Ya podemos modifcar archivo
 
