@@ -1,5 +1,7 @@
 Earth
+Plants
 Human
+
 Ya podemos modifcar archivo
 
 i  Comienza a introducir texto en la poscion actual
