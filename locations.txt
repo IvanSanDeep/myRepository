@@ -34,3 +34,12 @@ CSS Estilos
         p[name^="tos"] { 
             color: brown;
         }
+
+                /*
+        p:nth-child(even) {
+            color: crimson;
+        }
+        */
+        p:last-child {
+            color: darkslateblue;
+        }
